@@ -1,0 +1,59 @@
+#+TITLE: Questions to Ask as a Software Engineering Interview Candidate
+#+AUTHOR: Jonathan Jin
+
+* Table Of Contents                                                        :TOC:
+ - [[#development][Development]]
+   - [[#general][General]]
+   - [[#technologies][Technologies]]
+   - [[#qa][QA]]
+ - [[#hrqol][HR/QOL]]
+ - [[#credits][Credits]]
+
+* Development
+
+** General
+
+   - On-call?
+   - Team structure?
+   - When was last crunch time?
+   - What are some reasons why an engineer should join your company over the
+     biggies, e.g. Google or FB?
+   - What's your favorite part of the job?
+   - What's something you have worked on or are currently working on that
+     excites you?
+   - Average number of hours *you* work? Any after-hours/weekends?
+   - Typical required office hours? Are they flexible?
+   - Communication/cooperation w/ international teams (if any); any late nights
+     or early mornings as result?
+   - How is inter-office mobility? Can engineers request transfers or choose to
+     work from a given office temporarily; how easy is it to do so, and is this
+     something that engineers tend to do?
+   - What needs are your team currently attempting to fulfill with its current
+     hiring efforts?
+   - How autonomous/pressured do you feel in your work?
+   - What kind of equipment and working environment are devs provided with? What
+     is and is not expensable? Are devs free to customize, or are environments
+     more standardized?
+
+** Technologies
+
+   - What's your stack?
+   - What's your policy/practice regarding adoption of new technologies?
+
+** QA
+
+   - How does your team ensure/maintain product quality?
+   - What's your build process like?
+
+* HR/QOL
+
+  - Vacation/PTO policy
+  - WFH?
+  - Bonus structure
+  - Promotion schedule, if any
+  - What proportion of your hires are experienced vs. new grads? What's the
+    median and average years of experience that developers have?
+
+* Credits
+
+  A good deal of these questions came from [[https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/][this post in r/cscareerquestions]].
