@@ -8,6 +8,7 @@
   - [[#qa][QA]]
   - [[#team-dynamic][Team Dynamic]]
 - [[#hrqol][HR/QOL]]
+- [[#diversity][Diversity]]
 - [[#credits][Credits]]
 - [[#license][License]]
 
@@ -66,6 +67,12 @@
   - What proportion of your hires are experienced vs. new grads? What's the
     median and average years of experience that developers have?
 
+* Diversity
+
+  - How diverse is your organization?
+  - What direct initiatives is your organization working on, if any, to
+    prioritize or improve diversity?
+  
 * Credits
 
   A good deal of these questions came from [[https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/][this post in r/cscareerquestions]].
