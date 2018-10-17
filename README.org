@@ -57,6 +57,10 @@
    - What will I be expected to accomplish in the first N months?
    - How do you measure engineer growth, and how does growth factor into
      promotion and my responsibilities as an IC?
+   - How does your team respond to outages -- both immediately, and afterwards?
+   
+     This question can help you to determine if a team "assigns blame" to individuals
+     for outages, or takes a blameless, general post-mortem approach.
      
 * HR/QOL
   
