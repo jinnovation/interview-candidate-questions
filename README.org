@@ -65,6 +65,12 @@
 * HR/QOL
   
   - Vacation/PTO policy
+    - "How many days have you personally taken off in the past year?"
+      - Good way to get a candid, objective response. If the HM tells it to you
+        straight, then you have a good signal into a) exactly what "unlimited"
+        really means and b) your HM's encouraged level of candor. And an HM
+        being unwilling to discuss such details with you openly is also worth
+        taking note of.
   - WFH?
   - Bonus structure
   - Promotion schedule, if any
