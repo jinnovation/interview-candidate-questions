@@ -79,9 +79,13 @@
 
 * Diversity
 
-  - How diverse is your organization?
+  - How diverse is your team, organization, etc.?
+    - "If it's not diverse or less diverse than you'd like, why do you think
+      that is?"
   - What direct initiatives is your organization working on, if any, to
     prioritize or improve diversity?
+  - What opportunities are there for me as an IC to contribute to improving
+    diversity and inclusion within engineering at Company?
   
 * Credits
 
