@@ -13,14 +13,17 @@
 - [[#license][License]]
 
 * Development
-  
+
 ** General
-   
+
    - On-call?
+
    - Team structure?
+
    - When was last crunch time?
-   - What are some reasons why an engineer should join your company over the
-     biggies, e.g. Google or FB?
+
+   - What sets your company/org/team apart from its peers in industry?
+
    - What's your favorite part of the job?
    - What's something you have worked on or are currently working on that
      excites you?
@@ -38,32 +41,59 @@
    - What kind of equipment and working environment are devs provided with? What
      is and is not expensable? Are devs free to customize, or are environments
      more standardized?
-     
+
 ** Technologies
-   
+
    - What's your stack?
    - What's your policy/practice regarding adoption of new technologies?
-     
+
 ** QA
-   
+
    - How does your team ensure/maintain product quality?
    - What's your build process like?
 
 ** Team Dynamic
 
+   - What will I be expected to accomplish in the first N months?
+   - How does your team respond to outages -- both immediately, and afterwards?
+
+     This question can help you to determine if a team "assigns blame" to individuals
+     for outages, or takes a blameless, general post-mortem approach.
+
+** Management
+
+   These are questions both relating to management style -- both at the line/org
+   level -- as well as more targeted questions intended to be asked to HMs.
+
+   - How does the team approach planning? Are ICs consulted and given direct
+     input into OKRs and priorities, or are they decided effectively "for them"
+     by management?
+   - How do you measure engineer growth, and how does growth factor into
+     promotion and my responsibilities as an IC?
    - How do you measure employee/engineer success?
    - How is success measured for a manager, team lead, etc.?
    - Has anybody left the team in the past year? If so, why?
-   - What will I be expected to accomplish in the first N months?
-   - How do you measure engineer growth, and how does growth factor into
-     promotion and my responsibilities as an IC?
-   - How does your team respond to outages -- both immediately, and afterwards?
-   
-     This question can help you to determine if a team "assigns blame" to individuals
-     for outages, or takes a blameless, general post-mortem approach.
-     
+   - How does $company/$team do performance reviews?
+     - Is peer review factored in?
+     - Is review very simply between manager/report?
+   - Who would you consider your company and org's most respected and
+     influential leaders?  This can be independent of level, seniority, or even
+     org.
+     - What makes them so influential?
+     - How does their work influence your management style?
+   - Are there any engineering leaders -- either within or without the company
+     -- that you respect? Why? How does their work influence yours?
+   - How are new managers in $company/$org brought on? Say a new team is being
+     formed, e.g. being spun off from a pre-existing, maybe more general team to
+     focus on a more specific issue. How does $company/$org select a manager for
+     this new team?
+   - What sort of training is involved in somebody becoming a manager at
+     $company/$org?
+   - What do you consider the core pillars of a "good" manager? ("Good" here
+     being intentionally vague)
+
 * HR/QOL
-  
+
   - Vacation/PTO policy
     - "How many days have you personally taken off in the past year?"
       - Good way to get a candid, objective response. If the HM tells it to you
@@ -82,14 +112,17 @@
   - How diverse is your team, organization, etc.?
     - "If it's not diverse or less diverse than you'd like, why do you think
       that is?"
+  - How diverse is engineering leadership? How engaged are they in the
+    organization's DEI efforts?
   - What direct initiatives is your organization working on, if any, to
     prioritize or improve diversity?
   - What opportunities are there for me as an IC to contribute to improving
     diversity and inclusion within engineering at Company?
-  
+
 * Credits
 
-  A good deal of these questions came from [[https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/][this post in r/cscareerquestions]].
+  Some of these questions came from [[https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/][this post in r/cscareerquestions]]. The
+  majority of these grew out of my own iterative career experiences.
 
 * License
 
