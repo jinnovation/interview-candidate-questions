@@ -1,17 +1,6 @@
 #+TITLE: Questions to Ask as a Software Engineering Interview Candidate
 #+AUTHOR: Jonathan Jin
 
-* Table Of Contents                                                        :TOC:
-- [[#development][Development]]
-  - [[#general][General]]
-  - [[#technologies][Technologies]]
-  - [[#qa][QA]]
-  - [[#team-dynamic][Team Dynamic]]
-- [[#hrqol][HR/QOL]]
-- [[#diversity][Diversity]]
-- [[#credits][Credits]]
-- [[#license][License]]
-
 * Development
 
 ** General
@@ -60,37 +49,43 @@
      This question can help you to determine if a team "assigns blame" to individuals
      for outages, or takes a blameless, general post-mortem approach.
 
-** Management
+* Management
 
-   These are questions both relating to management style -- both at the line/org
-   level -- as well as more targeted questions intended to be asked to HMs.
+  These are questions both relating to management style -- both at the line/org
+  level -- as well as more targeted questions intended to be asked to HMs.
 
-   - How does the team approach planning? Are ICs consulted and given direct
-     input into OKRs and priorities, or are they decided effectively "for them"
-     by management?
-   - How do you measure engineer growth, and how does growth factor into
-     promotion and my responsibilities as an IC?
-   - How do you measure employee/engineer success?
-   - How is success measured for a manager, team lead, etc.?
-   - Has anybody left the team in the past year? If so, why?
-   - How does $company/$team do performance reviews?
-     - Is peer review factored in?
-     - Is review very simply between manager/report?
-   - Who would you consider your company and org's most respected and
-     influential leaders?  This can be independent of level, seniority, or even
-     org.
-     - What makes them so influential?
-     - How does their work influence your management style?
-   - Are there any engineering leaders -- either within or without the company
-     -- that you respect? Why? How does their work influence yours?
-   - How are new managers in $company/$org brought on? Say a new team is being
-     formed, e.g. being spun off from a pre-existing, maybe more general team to
-     focus on a more specific issue. How does $company/$org select a manager for
-     this new team?
-   - What sort of training is involved in somebody becoming a manager at
-     $company/$org?
-   - What do you consider the core pillars of a "good" manager? ("Good" here
-     being intentionally vague)
+  - How does the team approach planning? Are ICs consulted and given direct
+    input into OKRs and priorities, or are they decided effectively "for them"
+    by management?
+  - How do you measure engineer growth, and how does growth factor into
+    promotion and my responsibilities as an IC?
+  - How do you measure employee/engineer success?
+  - How is success measured for a manager, team lead, etc.?
+  - Has anybody left the team in the past year? If so, why?
+  - How does $company/$team do performance reviews?
+    - Is peer review factored in?
+    - Is review very simply between manager/report?
+  - Who would you consider your company and org's most respected and
+    influential leaders?  This can be independent of level, seniority, or even
+    org.
+    - What makes them so influential?
+    - How does their work influence your management style?
+  - Are there any engineering leaders -- either within or without the company
+    -- that you respect? Why? How does their work influence yours?
+  - How are new managers in $company/$org brought on? Say a new team is being
+    formed, e.g. being spun off from a pre-existing, maybe more general team to
+    focus on a more specific issue. How does $company/$org select a manager for
+    this new team?
+  - What sort of training is involved in somebody becoming a manager at
+    $company/$org?
+  - What do you consider the core pillars of a "good" manager? ("Good" here
+    being intentionally vague)
+  - Say a direct report came to you confessing to, say, difficulty focusing,
+    stress, detachment from work, lack of motivation, etc. 
+    - Has this ever happened to you? How did you respond?
+    - Otherwise, can you walk me through your thought process in addressing this
+      report's concerns?
+    - What is, to you, the most important factor in this context?
 
 * HR/QOL
 
@@ -118,6 +113,17 @@
     prioritize or improve diversity?
   - What opportunities are there for me as an IC to contribute to improving
     diversity and inclusion within engineering at Company?
+  - *To a manager*: What initiatives are *you* a part of w.r.t. DEI?
+    - Are you happy with your own degree of involvement? If so, why? If not,
+      what do you see as blockers to your increased involvement?
+  - A common criticism/complaint of DEI efforts is that these are dismissed as
+    orthogonal to ICs' immediate professional obligations. Heavy involvement in
+    such efforts can oftentimes be used against an IC, with feedback in the vein
+    of "you need to be more technical" or "you need to focus on your immediate
+    responsibilities more." Similarly, heavy involvement can -- and oftentimes,
+    does -- end up feeling like an unpaid side job on top of said immediate
+    professional obligations. *What does the org/company do to mitigate these
+    risks and reward involvement in DEI initiatives*?
 
 * Credits
 
