@@ -48,6 +48,8 @@ the open like this. Feel free to follow along! It'll be fun.
 Feel free to [buy me a coffee](https://www.buymeacoffee.com/jinnovation) as
 thanks.
 
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jinnovation" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
 Let's be clear though. I'm a software engineer; we make enough money as-is. By
 no means should you feel obligated to donate to me.
 
