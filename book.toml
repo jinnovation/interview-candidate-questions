@@ -1,0 +1,6 @@
+[book]
+authors = ["Jonathan Jin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "How to Interview Companies for Engineers"
