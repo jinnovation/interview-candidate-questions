@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "How to Interview Companies for Engineers"
+description = "Useful questions to ask companies that you're interviewing with."
+git-repository-url = "https://github.com/jinnovation/interview-candidate-questions"
+site-url = "https://jinnovation.github.io/interview-candidate-questions"
