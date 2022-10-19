@@ -55,3 +55,11 @@ If you decide not to, however -- which is totally fine -- my only ask is that
 you pay the learnings forward. The next time a clueless undergrad from your alma
 mater cold-DMs you on LinkedIn asking for advice...help them. Many years ago,
 you were probably in their exact position.
+
+## Contributing
+
+This book and its contents are free and open source. You can find the source on
+[GitHub][repo]. Feel free to contribute any questions that you've found useful
+in your job hunt or anything other insight.
+
+[repo]: https://github.com/jinnovation/interview-candidate-questions
